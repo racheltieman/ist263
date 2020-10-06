@@ -1,0 +1,10 @@
+body{ color: #000000; font-family: "Lucida Console", Courier, monospace;}
+h1 {color:  #ffc1f3; font-size: 3em; }
+h2 {color: #ffc1f3; font-size: 2em; }
+body {background-color: #FFFFFF;}
+a:link {color: #cffffe;}
+nav {background-color: #f9f7d9;}
+nav a {color: #ffc1f3;}
+nav a:hover{background-color: #cffffe;}
+nav {padding: 10px;}
+nav {margin-bottom: 30px}
