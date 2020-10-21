@@ -7,14 +7,13 @@ body {background-color: #FFFFFF;}
 a:link {color: #186bbd;}
 
 @media screen and (max-width: 600px) {
-    .topnav a {
+{
       float: none;
       width: 100%;
-    }
-  }
 
 nav {background-color: #ffe73d;}
 nav a {color: #861fb8;}
 nav a:hover{background-color:#186bbd;}
 nav {padding: 10px;}
 nav {margin-bottom: 30px}
+}
