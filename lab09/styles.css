@@ -6,10 +6,7 @@ h2 {color: #ff1ca5; font-size: 2em; }
 body {background-color: #FFFFFF;}
 a:link {color: #186bbd;}
 
-@media screen and (max-width: 600px) {
-{
-      float: none;
-      width: 100%;
+@media screen and (max-width: 600px) {}
 
 nav {background-color: #ffe73d;}
 nav a {color: #861fb8;}
