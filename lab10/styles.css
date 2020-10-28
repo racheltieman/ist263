@@ -4,7 +4,7 @@ h1 {color:  #ff1ca5; font-size: 3em; }
 h2 {color: #ff1ca5; font-size: 2em; }
 
 body {background-color: #FFFFFF;}
-a:link {color: darkblue;}
+a:link {color: purple;}
 
 
 @media screen and (max-width: 600px) 
